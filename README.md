@@ -1,2 +1,2 @@
-# Hummy
-Humburgers delivery store
+# Hammy
+Hamburgers delivery store
