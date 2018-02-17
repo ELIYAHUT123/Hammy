@@ -1,0 +1,9 @@
+.idea/
+node_modules
+.changelog
+*.swp
+*.orig
+asini-debug.log
+*npm-debug.log*
+.DS_Store
+__clientTemp

@@ -1,0 +1,24 @@
+{
+    "routes": {
+        "HomePage": {
+            "path": ["/"],
+            "page": "src/js/pages/home_page"
+        },
+        "DeliveriesPage": {
+            "path": ["/deliveries"],
+            "page": "src/js/pages/deliveries_page"
+        },
+        "StockPage": {
+            "path": ["/stock"],
+            "page": "src/js/pages/stock_page"
+        },
+        "CashAuditPage": {
+            "path": ["/cashaudit"],
+            "page": "src/js/pages/cash_audit_page"
+        },
+        "MenuPage": {
+            "path": ["/menu"],
+            "page": "src/js/pages/menu_page"
+        }
+    }
+}
